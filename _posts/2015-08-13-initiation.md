@@ -2,6 +2,7 @@
 layout: post
 title: Inititation and the Individual 
 permalink: /initiation/
+category: Lecture 4
 ---
 
 The individual is the hero in hero stories and the initiate in initiatory routines. So the hero is the person who is attemping to become a complete biological and historical entity, personality, so that they are capable not only of adopting independent existence, but of adopting independent existence that's productive, and that's productive in a way that's a benefit to the community. It's a particular pattern of development. And that needs to be catalyzed by human societies, because in order for society to maintain its structure and for the people within it to thrive, the developing individuals have to mature to the point where they can take care of themselves in a way that doesn't disrupt the whole social structure.

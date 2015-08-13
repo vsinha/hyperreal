@@ -120,6 +120,11 @@ header li {
     text-transform:capitalize;
 }
 
+header div {
+    text-transform:capitalize;
+}
+
+
 strong {
   color:#222;
   font-weight:700;
