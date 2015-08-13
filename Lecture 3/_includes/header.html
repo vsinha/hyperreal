@@ -1,0 +1,37 @@
+<header>
+  <h1><a href="/">{{ site.project_name }}</a></h1>
+  <p>{{ site.description }}</p>
+
+
+<ul>
+{% assign categories_list = site.categories | sort %}
+{% for category in categories_list %}
+  <li>{{ category | first }}
+    <ul>
+    {% for posts in category %}
+      {% for post in posts %}
+        {% if post.title != null %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    </ul>
+  {% endfor %}
+  </li>
+</ul>
+
+  <!--
+    {% for node in site.posts %}
+      {% if node.title != null %}
+        <a href="{{ node.url }}">{{ node.title }}</a></br>
+      {% endif %}
+    {% endfor %}
+    </br>
+  -->
+
+  <br>
+  <p class="view"> <a href="/videos/">Videos on Youtube</a></p>
+  <p class="view"> <a href="/about/">About</a></p>
+  <p class="view"><a href="{{ site.repository_url }}">View the Project on GitHub <small>{{ site.repository_shorthand }}</small></a></p>
+
+</header>
