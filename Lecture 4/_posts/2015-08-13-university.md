@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: The Paradox of University
 permalink: /university/
 ---

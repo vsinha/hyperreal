@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Intelligence Goes Wrong
 permalink: /intelligence/
 ---

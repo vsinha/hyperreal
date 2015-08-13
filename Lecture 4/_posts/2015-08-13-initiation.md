@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Inititation and the Individual 
 permalink: /initiation/
 ---
