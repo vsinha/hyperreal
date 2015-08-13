@@ -4,7 +4,7 @@
 
     <!-- this generates the list of links in the sidebar -->
     {% assign pages_list = site.pages | sort:"url" %}
-    {% for node in pages_list %}
+    {% for node in site.pages %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
         <a href="{{ node.url }}">{{ node.title }}</a></br>
