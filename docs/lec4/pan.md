@@ -2,6 +2,7 @@
 layout: page
 title: Childhood and the Peter Pan Story
 permalink: /pan/
+tag: lecture4
 ---
 
 The Peter Pan story is very interesting. "Pan" sort of means "everything". Peter Pan is the sort of person who wants to retain the dynamic potential of childhood. When you're a child, you're not anything, but you could be anything. So you're pretty much only potential.
