@@ -5,8 +5,7 @@ description: >
 repository_url: https://github.com/vsinha/hyperreal
 repository_shorthand: vsinha/hyperreal
 
-base_url: /hyperreal/
-production_url: vsinha.com/hyperreal
+production_url: hyperreal.vsinha.com
 
 author_name: viraj sinha
 author_url: https://github.com/vsinha
