@@ -1,0 +1,19 @@
+<header>
+  <h1><a href="/">{{ site.project_name }}</a></h1>
+  <p>{{ site.description }}</p>
+
+    <!-- this generates the list of links in the sidebar -->
+    {% assign pages_list = site.pages | sort:"url" %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+        <a href="{{ node.url }}">{{ node.title }}</a></br>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    </br>
+
+  <p class="view"> <a href="/videos/">Videos</a></p>
+  <p class="view"><a href="{{ site.repository_url }}">View the Project on GitHub <small>{{ site.repository_shorthand }}</small></a></p>
+
+</header>
