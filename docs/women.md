@@ -1,0 +1,8 @@
+---
+layout: page
+title: Woman and Nature 
+permalink: /nature/
+---
+
+Women select men. That makes them nature, because nature is what selects. And you can say "Well it's only symbolic that women are nature", it's like no, it's not just symbolic. The woman is the gatekeeper to reproductive success. And you can't get more like nature than that, in fact it's the very definition of nature.
+
