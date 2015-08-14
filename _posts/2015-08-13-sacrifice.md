@@ -5,6 +5,8 @@ permalink: /sacrifice/
 category: Lecture 3
 ---
 
+<img class="center kali" src="/img/kali.jpg" alt="Kali"><br>
+
 One of the things that the Hindus do in relationship to Kali, is offer sacrifices. So you can say, well "Why would you offer sacrifices to something you're afraid of?". And it's because that is what you do, that's always what you do. 
 
 You offer up sacrifices to the unknown in the hope that good things will happen to you.
